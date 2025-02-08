@@ -5,4 +5,5 @@ This repo contains three ML projects:
 3.  Spam SMS Detection – Classifies messages as spam or legitimate.
    
  Built with Python, Scikit-learn, and NLP techniques.
+ 
  Usage: Clone repo → Install dependencies → Run scripts → Test predictions! 
