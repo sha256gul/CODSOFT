@@ -7,3 +7,8 @@ This repo contains three ML projects:
  Built with Python, Scikit-learn, and NLP techniques.
  
  Usage: Clone repo → Install dependencies → Run scripts → Test predictions! 
+
+ 
+I am unable to upload the fraud-detection dataset folder, which contains the fraudTest.csv and fraudTrain.csv files. You can download the dataset from the following link:
+
+🔗 Fraud Detection Dataset – Kaggle
